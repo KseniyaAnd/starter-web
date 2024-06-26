@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Kseniya Andrusenka   KAndrusenka@ibagroup.eu   @KseniyaAnd
 
 # THANKS
 
