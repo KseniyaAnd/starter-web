@@ -20,4 +20,4 @@ Please fork this repository and them issue Pull Request for review.
 
 ### Copyright
 
-2024 Get.Training.
+2024 Get.Training. All rights reserved.
